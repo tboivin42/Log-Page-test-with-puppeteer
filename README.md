@@ -23,7 +23,7 @@ Same as previously run the app (npm start || yarn start)
 
 The app will run at `http://localhost:8080`
 
-### `Puppeteer`
+### `Puppeteer's Folder`
 
 Now let's launch the tests
 
