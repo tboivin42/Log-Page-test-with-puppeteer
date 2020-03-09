@@ -31,6 +31,6 @@ Like the others folders just type: "npm start" || "yarn start"
 
 You should have a Message on your console:
 
-![Image description](./Screenshot 2020-03-09 at 14.00.04.png)
+![Image description](./Screenshot.png)
 
 Thanks !
